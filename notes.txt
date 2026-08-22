@@ -51,7 +51,7 @@ git checkout main = eppo cheytha updation onnum mainil undavilla undavanam engil
 git merge branch name
 git add.
 git commit -m "commit msg"
-git push origin branch name
+git push 
 
 🔅branch delete cheyyan
 -----------------------
