@@ -19,8 +19,8 @@ git add "file name" only one file adding
 git add .  for all file adding 
 git commit -m "first msg" this is for knowing the changes
 ithuvare gitil mathraman code store ayittulath after this 
-git branch = branch check cheyyan 
-git remote add origin "git create cheytha repo url" ---- connection btw your local project and GitHub
+git branch -m main = branch check cheyyan 
+git remote add origin "git create cheytha repo url" = connection btw your local project and GitHub
 git push -u origin branch name
 
 for latest updation
