@@ -1,4 +1,4 @@
-git
+🔅git
 -------
 nammude systathil use 
 code save cheyyan
@@ -10,7 +10,7 @@ git config--global user.name"Your name"
 git config--global user.name"Your emailId" 
 git config--list
 
-git commants
+🔅git commants
 ------------
 importent
 ---------
@@ -19,7 +19,7 @@ git add "file name" only one file adding
 git add .  for all file adding 
 git commit -m "first msg" this is for knowing the changes
 ithuvare gitil mathraman code store ayittulath after this 
-git branch
+git branch = branch check cheyyan 
 git remote add origin "git create cheytha repo url" ---- connection btw your local project and GitHub
 git push -u origin branch name
 
@@ -34,6 +34,29 @@ git push
 git log --online ith cheythal commit cheytha list kittum
 git checkout commit ID
 
+🔅branch creation commants
+-------------------------
+git branch
+git branch branch name
+git branch  
+git checkout branch-name  or git switch branch name  = Eppo main branchil ninn new branch ethi.
+git checkout -b branch name = branch name create cheyyanum switch cheyyanum 
+git add .
+git commit -m "commit msg"
+git push origin branch name
+git checkout main = eppo cheytha updation onnum mainil undavilla undavanam engil merge chyyanam
+
+🔅branch merging
+-----------------
+git merge branch name
+git add.
+git commit -m "commit msg"
+git push origin branch name
+
+🔅branch delete cheyyan
+-----------------------
+git branch -D branch name
+
 
 
 
@@ -43,16 +66,12 @@ git status - what is the status now
 git diff - what we change and update before we commit
 
 
-
-
-
-
-git hub 
+🔅git hub 
 -----------
 - online platform
 
 
 
-todays work
+🔅todays work🔅
 ----------------
 edit and make your git hub profile
