@@ -1,0 +1,58 @@
+git
+-------
+nammude systathil use 
+code save cheyyan
+nammude systethile local ayi use cheyyunnath 
+branch creation 
+
+install the git 
+git config--global user.name"Your name"
+git config--global user.name"Your emailId" 
+git config--list
+
+git commants
+------------
+importent
+---------
+git init
+git add "file name" only one file adding
+git add .  for all file adding 
+git commit -m "first msg" this is for knowing the changes
+ithuvare gitil mathraman code store ayittulath after this 
+git branch
+git remote add origin "git create cheytha repo url" ---- connection btw your local project and GitHub
+git push -u origin branch name
+
+for latest updation
+---------------------
+git add "file name" only one file adding
+git add .  for all file adding 
+git commit -m "first msg" this is for knowing the changes
+git push -u origin branch name
+============================================================
+
+git log --online ith cheythal commit cheytha list kittum
+git checkout commit ID
+
+
+
+
+non importent
+-------------
+git status - what is the status now
+git diff - what we change and update before we commit
+
+
+
+
+
+
+git hub 
+-----------
+- online platform
+
+
+
+todays work
+----------------
+edit and make your git hub profile
