@@ -28,7 +28,7 @@ for latest updation
 git add "file name" only one file adding
 git add .  for all file adding 
 git commit -m "first msg" this is for knowing the changes
-git push -u origin branch name
+git push
 ============================================================
 
 git log --online ith cheythal commit cheytha list kittum
